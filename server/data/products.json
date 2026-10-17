@@ -1,0 +1,1237 @@
+[
+  {
+    "id": 99,
+    "title": "Amazon Echo Plus",
+    "description": "The Amazon Echo Plus is a smart speaker with built-in Alexa voice control. It features premium sound quality and serves as a hub for controlling smart home devices.",
+    "category": "electronics",
+    "brand": "Amazon",
+    "priceCents": 9999,
+    "compareAtCents": null,
+    "stock": 3,
+    "rating": 4.99,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/1.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/2.webp"
+    ],
+    "tags": [
+      "electronics",
+      "smart speakers"
+    ]
+  },
+  {
+    "id": 80,
+    "title": "Huawei Matebook X Pro",
+    "description": "The Huawei Matebook X Pro is a slim and stylish laptop with a high-resolution touchscreen display, offering a premium experience for users on the go.",
+    "category": "electronics",
+    "brand": "Huawei",
+    "priceCents": 139999,
+    "compareAtCents": 174999,
+    "stock": 75,
+    "rating": 4.98,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/1.webp",
+      "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/2.webp",
+      "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/3.webp"
+    ],
+    "tags": [
+      "laptops"
+    ]
+  },
+  {
+    "id": 95,
+    "title": "Rolex Cellini Date Black Dial",
+    "description": "The Rolex Cellini Date with Black Dial is a classic and prestigious watch. With a black dial and date complication, it exudes sophistication and is a symbol of Rolex's heritage.",
+    "category": "accessories",
+    "brand": "Rolex",
+    "priceCents": 899999,
+    "compareAtCents": 1124999,
+    "stock": 40,
+    "rating": 4.97,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/1.webp",
+      "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/2.webp",
+      "https://cdn.dummyjson.com/product-images/mens-watches/rolex-cellini-date-black-dial/3.webp"
+    ],
+    "tags": [
+      "watches",
+      "luxury watches"
+    ]
+  },
+  {
+    "id": 65,
+    "title": "Lunch Box",
+    "description": "The Lunch Box is a convenient and portable container for packing and carrying your meals. With compartments for different foods, it's perfect for on-the-go dining.",
+    "category": "home",
+    "brand": null,
+    "priceCents": 1299,
+    "compareAtCents": 1599,
+    "stock": 94,
+    "rating": 4.93,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/lunch-box/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/lunch-box/1.webp"
+    ],
+    "tags": [
+      "kitchen tools",
+      "storage"
+    ]
+  },
+  {
+    "id": 173,
+    "title": "Heshe Women's Leather Bag",
+    "description": "The Heshe Women's Leather Bag is a luxurious and high-quality leather bag for the sophisticated woman. With a timeless design and durable craftsmanship, it's a versatile accessory.",
+    "category": "accessories",
+    "brand": "Heshe",
+    "priceCents": 12999,
+    "compareAtCents": null,
+    "stock": 99,
+    "rating": 4.92,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/womens-bags/heshe-women's-leather-bag/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/womens-bags/heshe-women's-leather-bag/1.webp",
+      "https://cdn.dummyjson.com/product-images/womens-bags/heshe-women's-leather-bag/2.webp",
+      "https://cdn.dummyjson.com/product-images/womens-bags/heshe-women's-leather-bag/3.webp"
+    ],
+    "tags": [
+      "fashion accessories",
+      "leather bags"
+    ]
+  },
+  {
+    "id": 186,
+    "title": "Calvin Klein Heel Shoes",
+    "description": "Calvin Klein Heel Shoes are elegant and sophisticated, designed for formal occasions. With a classic design and high-quality materials, they complement your stylish ensemble.",
+    "category": "fashion",
+    "brand": "Calvin Klein",
+    "priceCents": 7999,
+    "compareAtCents": null,
+    "stock": 93,
+    "rating": 4.92,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/womens-shoes/calvin-klein-heel-shoes/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/womens-shoes/calvin-klein-heel-shoes/1.webp",
+      "https://cdn.dummyjson.com/product-images/womens-shoes/calvin-klein-heel-shoes/2.webp",
+      "https://cdn.dummyjson.com/product-images/womens-shoes/calvin-klein-heel-shoes/3.webp",
+      "https://cdn.dummyjson.com/product-images/womens-shoes/calvin-klein-heel-shoes/4.webp"
+    ],
+    "tags": [
+      "footwear",
+      "heel shoes"
+    ]
+  },
+  {
+    "id": 137,
+    "title": "American Football",
+    "description": "The American Football is a classic ball used in American football games. It is designed for throwing and catching, making it an essential piece of equipment for the sport.",
+    "category": "sports",
+    "brand": null,
+    "priceCents": 1999,
+    "compareAtCents": null,
+    "stock": 53,
+    "rating": 4.91,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/1.webp"
+    ],
+    "tags": [
+      "sports equipment",
+      "american football"
+    ]
+  },
+  {
+    "id": 90,
+    "title": "Puma Future Rider Trainers",
+    "description": "The Puma Future Rider Trainers offer a blend of retro style and modern comfort. Perfect for casual wear, these trainers provide a fashionable and comfortable option for everyday use.",
+    "category": "fashion",
+    "brand": "Puma",
+    "priceCents": 8999,
+    "compareAtCents": 11199,
+    "stock": 90,
+    "rating": 4.9,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/1.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/2.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/3.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/4.webp"
+    ],
+    "tags": [
+      "footwear",
+      "casual shoes"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Knoll Saarinen Executive Conference Chair",
+    "description": "The Knoll Saarinen Executive Conference Chair is a modern and ergonomic chair, perfect for your office or conference room with its timeless design.",
+    "category": "home",
+    "brand": "Knoll",
+    "priceCents": 49999,
+    "compareAtCents": null,
+    "stock": 26,
+    "rating": 4.88,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/1.webp",
+      "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/2.webp",
+      "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/3.webp"
+    ],
+    "tags": [
+      "furniture",
+      "office chairs"
+    ]
+  },
+  {
+    "id": 180,
+    "title": "Dress Pea",
+    "description": "The Dress Pea is a stylish and comfortable dress with a pea pattern. Perfect for casual outings, it adds a playful and fun element to your wardrobe, making it a great choice for day-to-day wear.",
+    "category": "fashion",
+    "brand": null,
+    "priceCents": 4999,
+    "compareAtCents": 6199,
+    "stock": 6,
+    "rating": 4.88,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/1.webp",
+      "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/2.webp",
+      "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/3.webp",
+      "https://cdn.dummyjson.com/product-images/womens-dresses/dress-pea/4.webp"
+    ],
+    "tags": [
+      "clothing",
+      "dresses"
+    ]
+  },
+  {
+    "id": 73,
+    "title": "Spice Rack",
+    "description": "The Spice Rack is a convenient organizer for your spices and seasonings. Keep your kitchen essentials within reach and neatly arranged with this stylish spice rack.",
+    "category": "home",
+    "brand": null,
+    "priceCents": 1999,
+    "compareAtCents": null,
+    "stock": 79,
+    "rating": 4.87,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/spice-rack/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/spice-rack/1.webp"
+    ],
+    "tags": [
+      "kitchen tools",
+      "organization"
+    ]
+  },
+  {
+    "id": 66,
+    "title": "Microwave Oven",
+    "description": "The Microwave Oven is a versatile kitchen appliance for quick and efficient cooking, reheating, and defrosting. Its compact size makes it suitable for various kitchen setups.",
+    "category": "home",
+    "brand": null,
+    "priceCents": 8999,
+    "compareAtCents": null,
+    "stock": 3,
+    "rating": 4.82,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/1.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/2.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/3.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/4.webp"
+    ],
+    "tags": [
+      "kitchen appliances",
+      "microwaves"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Annibale Colombo Bed",
+    "description": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
+    "category": "home",
+    "brand": "Annibale Colombo",
+    "priceCents": 189999,
+    "compareAtCents": null,
+    "stock": 3,
+    "rating": 4.77,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/1.webp",
+      "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/2.webp",
+      "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/3.webp"
+    ],
+    "tags": [
+      "furniture",
+      "beds"
+    ]
+  },
+  {
+    "id": 88,
+    "title": "Nike Air Jordan 1 Red And Black",
+    "description": "The Nike Air Jordan 1 in Red and Black is an iconic basketball sneaker known for its stylish design and high-performance features, making it a favorite among sneaker enthusiasts and athletes.",
+    "category": "fashion",
+    "brand": "Nike",
+    "priceCents": 14999,
+    "compareAtCents": null,
+    "stock": 3,
+    "rating": 4.77,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/1.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/2.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/3.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/4.webp"
+    ],
+    "tags": [
+      "footwear",
+      "athletic shoes"
+    ]
+  },
+  {
+    "id": 91,
+    "title": "Sports Sneakers Off White & Red",
+    "description": "The Sports Sneakers in Off White and Red combine style and functionality, making them a fashionable choice for sports enthusiasts. The red and off-white color combination adds a bold and energetic touch.",
+    "category": "fashion",
+    "brand": "Off White",
+    "priceCents": 11999,
+    "compareAtCents": null,
+    "stock": 17,
+    "rating": 4.77,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/1.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/2.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/3.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/4.webp"
+    ],
+    "tags": [
+      "footwear",
+      "athletic shoes"
+    ]
+  },
+  {
+    "id": 163,
+    "title": "Girl Summer Dress",
+    "description": "The Girl Summer Dress is a cute and breezy dress designed for warm weather. With playful patterns and lightweight fabric, it's perfect for keeping cool and stylish during the summer.",
+    "category": "fashion",
+    "brand": null,
+    "priceCents": 1999,
+    "compareAtCents": null,
+    "stock": 43,
+    "rating": 4.77,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/tops/girl-summer-dress/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/tops/girl-summer-dress/1.webp",
+      "https://cdn.dummyjson.com/product-images/tops/girl-summer-dress/2.webp",
+      "https://cdn.dummyjson.com/product-images/tops/girl-summer-dress/3.webp",
+      "https://cdn.dummyjson.com/product-images/tops/girl-summer-dress/4.webp"
+    ],
+    "tags": [
+      "clothing",
+      "girls' dresses"
+    ]
+  },
+  {
+    "id": 145,
+    "title": "Cricket Wicket",
+    "description": "The Cricket Wicket is a set of three stumps and two bails, forming a wicket used in the sport of cricket. Batsmen aim to protect the wicket while scoring runs.",
+    "category": "sports",
+    "brand": null,
+    "priceCents": 2999,
+    "compareAtCents": 3699,
+    "stock": 25,
+    "rating": 4.73,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-wicket/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-wicket/1.webp"
+    ],
+    "tags": [
+      "sports equipment",
+      "cricket"
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Ice Cube Tray",
+    "description": "The Ice Cube Tray is a practical accessory for making ice cubes in various shapes. Perfect for keeping your drinks cool and adding a fun element to your beverages.",
+    "category": "home",
+    "brand": null,
+    "priceCents": 599,
+    "compareAtCents": null,
+    "stock": 13,
+    "rating": 4.71,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/ice-cube-tray/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/ice-cube-tray/1.webp"
+    ],
+    "tags": [
+      "kitchen tools",
+      "ice cube trays"
+    ]
+  },
+  {
+    "id": 92,
+    "title": "Sports Sneakers Off White Red",
+    "description": "Another variant of the Sports Sneakers in Off White Red, featuring a unique design. These sneakers offer style and comfort for casual occasions.",
+    "category": "fashion",
+    "brand": "Off White",
+    "priceCents": 10999,
+    "compareAtCents": null,
+    "stock": 62,
+    "rating": 4.69,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/1.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/2.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/3.webp",
+      "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/4.webp"
+    ],
+    "tags": [
+      "footwear",
+      "casual shoes"
+    ]
+  },
+  {
+    "id": 144,
+    "title": "Cricket Helmet",
+    "description": "The Cricket Helmet is a protective headgear worn by cricket players, especially batsmen and wicketkeepers. It provides protection against fast bowling and bouncers.",
+    "category": "sports",
+    "brand": null,
+    "priceCents": 4499,
+    "compareAtCents": null,
+    "stock": 10,
+    "rating": 4.69,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/1.webp",
+      "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/2.webp",
+      "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/3.webp",
+      "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/4.webp"
+    ],
+    "tags": [
+      "sports equipment",
+      "cricket"
+    ]
+  },
+  {
+    "id": 160,
+    "title": "Samsung Galaxy Tab S8 Plus Grey",
+    "description": "The Samsung Galaxy Tab S8 Plus in Grey is a high-performance Android tablet by Samsung. With a large AMOLED display, powerful processor, and S Pen support, it's ideal for productivity and entertainment.",
+    "category": "electronics",
+    "brand": "Samsung",
+    "priceCents": 59999,
+    "compareAtCents": 74999,
+    "stock": 62,
+    "rating": 4.68,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/1.webp",
+      "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/2.webp",
+      "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/3.webp",
+      "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/4.webp"
+    ],
+    "tags": [
+      "electronics",
+      "tablets"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "House Showpiece Plant",
+    "description": "The House Showpiece Plant is an artificial plant that brings a touch of nature to your home without the need for maintenance. It adds greenery and style to any space.",
+    "category": "home",
+    "brand": null,
+    "priceCents": 3999,
+    "compareAtCents": 4999,
+    "stock": 28,
+    "rating": 4.67,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/1.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/2.webp",
+      "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/3.webp"
+    ],
+    "tags": [
+      "home decor",
+      "artificial plants"
+    ]
+  },
+  {
+    "id": 140,
+    "title": "Basketball",
+    "description": "The Basketball is a standard ball used in basketball games. It is designed for dribbling, shooting, and passing in the game of basketball, suitable for both indoor and outdoor play.",
+    "category": "sports",
+    "brand": null,
+    "priceCents": 1499,
+    "compareAtCents": 1899,
+    "stock": 75,
+    "rating": 4.66,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/1.webp"
+    ],
+    "tags": [
+      "sports equipment",
+      "basketball"
+    ]
+  },
+  {
+    "id": 150,
+    "title": "Metal Baseball Bat",
+    "description": "The Metal Baseball Bat is a durable and lightweight baseball bat made from metal alloys. It is commonly used in baseball games for hitting and batting practice.",
+    "category": "sports",
+    "brand": null,
+    "priceCents": 2999,
+    "compareAtCents": 3699,
+    "stock": 16,
+    "rating": 4.66,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/metal-baseball-bat/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sports-accessories/metal-baseball-bat/1.webp"
+    ],
+    "tags": [
+      "sports equipment",
+      "baseball"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Powder Canister",
+    "description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
+    "category": "beauty",
+    "brand": "Velvet Touch",
+    "priceCents": 1499,
+    "compareAtCents": null,
+    "stock": 89,
+    "rating": 4.64,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/beauty/powder-canister/1.webp"
+    ],
+    "tags": [
+      "beauty",
+      "face powder"
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Citrus Squeezer Yellow",
+    "description": "The Citrus Squeezer in Yellow is a handy tool for extracting juice from citrus fruits. Its vibrant color adds a cheerful touch to your kitchen gadgets.",
+    "category": "home",
+    "brand": null,
+    "priceCents": 899,
+    "compareAtCents": null,
+    "stock": 22,
+    "rating": 4.63,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/citrus-squeezer-yellow/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/citrus-squeezer-yellow/1.webp"
+    ],
+    "tags": [
+      "kitchen tools",
+      "juicers"
+    ]
+  },
+  {
+    "id": 75,
+    "title": "Tray",
+    "description": "The Tray is a functional and decorative item for serving snacks, appetizers, or drinks. Its stylish design makes it a versatile accessory for entertaining guests.",
+    "category": "home",
+    "brand": null,
+    "priceCents": 1699,
+    "compareAtCents": 2099,
+    "stock": 71,
+    "rating": 4.62,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/tray/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/tray/1.webp"
+    ],
+    "tags": [
+      "serveware",
+      "trays"
+    ]
+  },
+  {
+    "id": 103,
+    "title": "Apple HomePod Mini Cosmic Grey",
+    "description": "The Apple HomePod Mini in Cosmic Grey is a compact smart speaker that delivers impressive audio and integrates seamlessly with the Apple ecosystem for a smart home experience.",
+    "category": "electronics",
+    "brand": "Apple",
+    "priceCents": 9999,
+    "compareAtCents": null,
+    "stock": 27,
+    "rating": 4.62,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/1.webp"
+    ],
+    "tags": [
+      "electronics",
+      "smart speakers"
+    ]
+  },
+  {
+    "id": 141,
+    "title": "Basketball Rim",
+    "description": "The Basketball Rim is a sturdy hoop and net assembly mounted on a basketball backboard. It provides a target for shooting and scoring in the game of basketball.",
+    "category": "sports",
+    "brand": null,
+    "priceCents": 3999,
+    "compareAtCents": null,
+    "stock": 43,
+    "rating": 4.6,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/1.webp"
+    ],
+    "tags": [
+      "sports equipment",
+      "basketball"
+    ]
+  },
+  {
+    "id": 130,
+    "title": "Realme XT",
+    "description": "The Realme XT is a feature-rich smartphone with a focus on camera technology. It comes equipped with advanced camera sensors, delivering high-quality photos and videos for photography enthusiasts.",
+    "category": "electronics",
+    "brand": "Realme",
+    "priceCents": 34999,
+    "compareAtCents": 43699,
+    "stock": 80,
+    "rating": 4.58,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/1.webp",
+      "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/2.webp",
+      "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/3.webp"
+    ],
+    "tags": [
+      "smartphones",
+      "realme"
+    ]
+  },
+  {
+    "id": 51,
+    "title": "Boxed Blender",
+    "description": "The Boxed Blender is a powerful and compact blender perfect for smoothies, shakes, and more. Its convenient design and multiple functions make it a versatile kitchen appliance.",
+    "category": "home",
+    "brand": null,
+    "priceCents": 3999,
+    "compareAtCents": null,
+    "stock": 0,
+    "rating": 4.56,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/1.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/2.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/3.webp",
+      "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/4.webp"
+    ],
+    "tags": [
+      "kitchen appliances",
+      "blenders"
+    ]
+  },
+  {
+    "id": 156,
+    "title": "Green and Black Glasses",
+    "description": "The Green and Black Glasses feature a bold combination of green and black colors, adding a touch of vibrancy to your eyewear collection. They are both stylish and eye-catching.",
+    "category": "accessories",
+    "brand": "Fashion Shades",
+    "priceCents": 3499,
+    "compareAtCents": null,
+    "stock": 24,
+    "rating": 4.55,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/green-and-black-glasses/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sunglasses/green-and-black-glasses/1.webp",
+      "https://cdn.dummyjson.com/product-images/sunglasses/green-and-black-glasses/2.webp",
+      "https://cdn.dummyjson.com/product-images/sunglasses/green-and-black-glasses/3.webp"
+    ],
+    "tags": [
+      "eyewear",
+      "sunglasses"
+    ]
+  },
+  {
+    "id": 179,
+    "title": "Corset With Black Skirt",
+    "description": "The Corset With Black Skirt is a chic and versatile outfit that pairs a fashionable corset with a classic black skirt. It offers a trendy and coordinated look for various occasions.",
+    "category": "fashion",
+    "brand": null,
+    "priceCents": 7999,
+    "compareAtCents": null,
+    "stock": 33,
+    "rating": 4.52,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/womens-dresses/corset-with-black-skirt/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/womens-dresses/corset-with-black-skirt/1.webp",
+      "https://cdn.dummyjson.com/product-images/womens-dresses/corset-with-black-skirt/2.webp",
+      "https://cdn.dummyjson.com/product-images/womens-dresses/corset-with-black-skirt/3.webp",
+      "https://cdn.dummyjson.com/product-images/womens-dresses/corset-with-black-skirt/4.webp"
+    ],
+    "tags": [
+      "clothing",
+      "corsets",
+      "skirts"
+    ]
+  },
+  {
+    "id": 119,
+    "title": "Olay Ultra Moisture Shea Butter Body Wash",
+    "description": "Olay Ultra Moisture Shea Butter Body Wash is a luxurious body wash that hydrates and nourishes your skin with the moisturizing power of shea butter. Enjoy a rich lather and silky-smooth skin.",
+    "category": "beauty",
+    "brand": "Olay",
+    "priceCents": 1299,
+    "compareAtCents": null,
+    "stock": 0,
+    "rating": 4.51,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/1.webp",
+      "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/2.webp",
+      "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/3.webp"
+    ],
+    "tags": [
+      "personal care",
+      "body wash"
+    ]
+  },
+  {
+    "id": 181,
+    "title": "Marni Red & Black Suit",
+    "description": "The Marni Red & Black Suit is a sophisticated and fashion-forward suit ensemble. With a combination of red and black tones, it showcases a modern design for a bold and confident look.",
+    "category": "fashion",
+    "brand": null,
+    "priceCents": 17999,
+    "compareAtCents": null,
+    "stock": 62,
+    "rating": 4.48,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/womens-dresses/marni-red-&-black-suit/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/womens-dresses/marni-red-&-black-suit/1.webp",
+      "https://cdn.dummyjson.com/product-images/womens-dresses/marni-red-&-black-suit/2.webp",
+      "https://cdn.dummyjson.com/product-images/womens-dresses/marni-red-&-black-suit/3.webp",
+      "https://cdn.dummyjson.com/product-images/womens-dresses/marni-red-&-black-suit/4.webp"
+    ],
+    "tags": [
+      "clothing",
+      "suits"
+    ]
+  },
+  {
+    "id": 109,
+    "title": "Monopod",
+    "description": "The Monopod is a versatile camera accessory for stable and adjustable shooting. Perfect for capturing selfies, group photos, and videos with ease.",
+    "category": "electronics",
+    "brand": "TechGear",
+    "priceCents": 1999,
+    "compareAtCents": null,
+    "stock": 48,
+    "rating": 4.43,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/1.webp",
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/monopod/2.webp"
+    ],
+    "tags": [
+      "electronics",
+      "camera accessories"
+    ]
+  },
+  {
+    "id": 149,
+    "title": "Iron Golf",
+    "description": "The Iron Golf is a type of golf club designed for various golf shots. It features a solid metal head and is used for approach shots, chipping, and other golfing techniques.",
+    "category": "sports",
+    "brand": null,
+    "priceCents": 4999,
+    "compareAtCents": null,
+    "stock": 90,
+    "rating": 4.41,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/iron-golf/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sports-accessories/iron-golf/1.webp"
+    ],
+    "tags": [
+      "sports equipment",
+      "golf"
+    ]
+  },
+  {
+    "id": 154,
+    "title": "Black Sun Glasses",
+    "description": "The Black Sun Glasses are a classic and stylish choice, featuring a sleek black frame and tinted lenses. They provide both UV protection and a fashionable look.",
+    "category": "accessories",
+    "brand": "Fashion Shades",
+    "priceCents": 2999,
+    "compareAtCents": null,
+    "stock": 3,
+    "rating": 4.41,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/1.webp",
+      "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/2.webp",
+      "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/3.webp"
+    ],
+    "tags": [
+      "eyewear",
+      "sunglasses"
+    ]
+  },
+  {
+    "id": 132,
+    "title": "Samsung Galaxy S8",
+    "description": "The Samsung Galaxy S8 is a premium smartphone with an Infinity Display, offering a stunning visual experience. It boasts advanced camera capabilities and cutting-edge technology.",
+    "category": "electronics",
+    "brand": "Samsung",
+    "priceCents": 49999,
+    "compareAtCents": null,
+    "stock": 3,
+    "rating": 4.4,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s8/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s8/1.webp",
+      "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s8/2.webp",
+      "https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s8/3.webp"
+    ],
+    "tags": [
+      "smartphones",
+      "samsung galaxy"
+    ]
+  },
+  {
+    "id": 184,
+    "title": "Tropical Earring",
+    "description": "The Tropical Earring is a fun and playful accessory inspired by tropical elements. Featuring vibrant colors and a lively design, it's perfect for adding a touch of summer to your look.",
+    "category": "accessories",
+    "brand": null,
+    "priceCents": 1999,
+    "compareAtCents": null,
+    "stock": 1,
+    "rating": 4.4,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/womens-jewellery/tropical-earring/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/womens-jewellery/tropical-earring/1.webp",
+      "https://cdn.dummyjson.com/product-images/womens-jewellery/tropical-earring/2.webp",
+      "https://cdn.dummyjson.com/product-images/womens-jewellery/tropical-earring/3.webp"
+    ],
+    "tags": [
+      "fashion accessories",
+      "earrings"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Calvin Klein CK One",
+    "description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
+    "category": "beauty",
+    "brand": "Calvin Klein",
+    "priceCents": 4999,
+    "compareAtCents": null,
+    "stock": 29,
+    "rating": 4.37,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/1.webp",
+      "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/2.webp",
+      "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/3.webp"
+    ],
+    "tags": [
+      "fragrances",
+      "perfumes"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Red Lipstick",
+    "description": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
+    "category": "beauty",
+    "brand": "Chic Cosmetics",
+    "priceCents": 1299,
+    "compareAtCents": null,
+    "stock": 91,
+    "rating": 4.36,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/1.webp"
+    ],
+    "tags": [
+      "beauty",
+      "lipstick"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Red Nail Polish",
+    "description": "The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
+    "category": "beauty",
+    "brand": "Nail Couture",
+    "priceCents": 899,
+    "compareAtCents": 1099,
+    "stock": 79,
+    "rating": 4.32,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/1.webp"
+    ],
+    "tags": [
+      "beauty",
+      "nail polish"
+    ]
+  },
+  {
+    "id": 148,
+    "title": "Golf Ball",
+    "description": "The Golf Ball is a small ball used in the sport of golf. It features dimples on its surface, providing aerodynamic lift and distance when struck by a golf club.",
+    "category": "sports",
+    "brand": null,
+    "priceCents": 999,
+    "compareAtCents": null,
+    "stock": 84,
+    "rating": 4.3,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/golf-ball/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sports-accessories/golf-ball/1.webp"
+    ],
+    "tags": [
+      "sports equipment",
+      "golf"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Chanel Coco Noir Eau De",
+    "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
+    "category": "beauty",
+    "brand": "Chanel",
+    "priceCents": 12999,
+    "compareAtCents": null,
+    "stock": 58,
+    "rating": 4.26,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/1.webp",
+      "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/2.webp",
+      "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/3.webp"
+    ],
+    "tags": [
+      "fragrances",
+      "perfumes"
+    ]
+  },
+  {
+    "id": 136,
+    "title": "Vivo X21",
+    "description": "The Vivo X21 is a premium smartphone with a focus on cutting-edge technology. It features an in-display fingerprint sensor, a high-resolution display, and advanced camera capabilities.",
+    "category": "electronics",
+    "brand": "Vivo",
+    "priceCents": 49999,
+    "compareAtCents": null,
+    "stock": 0,
+    "rating": 4.26,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/vivo-x21/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/smartphones/vivo-x21/1.webp",
+      "https://cdn.dummyjson.com/product-images/smartphones/vivo-x21/2.webp",
+      "https://cdn.dummyjson.com/product-images/smartphones/vivo-x21/3.webp"
+    ],
+    "tags": [
+      "smartphones",
+      "vivo"
+    ]
+  },
+  {
+    "id": 127,
+    "title": "Oppo K1",
+    "description": "The Oppo K1 series offers a range of smartphones with various features and specifications. Known for their stylish design and reliable performance, the Oppo K1 series caters to diverse user preferences.",
+    "category": "electronics",
+    "brand": "Oppo",
+    "priceCents": 29999,
+    "compareAtCents": null,
+    "stock": 55,
+    "rating": 4.25,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/1.webp",
+      "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/2.webp",
+      "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/3.webp",
+      "https://cdn.dummyjson.com/product-images/smartphones/oppo-k1/4.webp"
+    ],
+    "tags": [
+      "smartphones",
+      "oppo"
+    ]
+  },
+  {
+    "id": 107,
+    "title": "Beats Flex Wireless Earphones",
+    "description": "The Beats Flex Wireless Earphones offer a comfortable and versatile audio experience. With magnetic earbuds and up to 12 hours of battery life, they are ideal for everyday use.",
+    "category": "electronics",
+    "brand": "Beats",
+    "priceCents": 4999,
+    "compareAtCents": null,
+    "stock": 50,
+    "rating": 4.24,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/1.webp"
+    ],
+    "tags": [
+      "electronics",
+      "wireless earphones"
+    ]
+  },
+  {
+    "id": 193,
+    "title": "Watch Gold for Women",
+    "description": "The Gold Women's Watch is a stunning accessory that combines luxury and style. Featuring a gold-plated case and a chic design, it adds a touch of glamour to any outfit.",
+    "category": "accessories",
+    "brand": "Fashion Gold",
+    "priceCents": 79999,
+    "compareAtCents": null,
+    "stock": 0,
+    "rating": 4.24,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/womens-watches/watch-gold-for-women/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/womens-watches/watch-gold-for-women/1.webp",
+      "https://cdn.dummyjson.com/product-images/womens-watches/watch-gold-for-women/2.webp",
+      "https://cdn.dummyjson.com/product-images/womens-watches/watch-gold-for-women/3.webp"
+    ],
+    "tags": [
+      "watches",
+      "women's watches"
+    ]
+  },
+  {
+    "id": 93,
+    "title": "Brown Leather Belt Watch",
+    "description": "The Brown Leather Belt Watch is a stylish timepiece with a classic design. Featuring a genuine leather strap and a sleek dial, it adds a touch of sophistication to your look.",
+    "category": "accessories",
+    "brand": "Fashion Timepieces",
+    "priceCents": 8999,
+    "compareAtCents": null,
+    "stock": 32,
+    "rating": 4.19,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/1.webp",
+      "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/2.webp",
+      "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/3.webp"
+    ],
+    "tags": [
+      "watches",
+      "leather watches"
+    ]
+  },
+  {
+    "id": 162,
+    "title": "Blue Frock",
+    "description": "The Blue Frock is a charming and stylish dress for various occasions. With a vibrant blue color and a comfortable design, it adds a touch of elegance to your wardrobe.",
+    "category": "fashion",
+    "brand": null,
+    "priceCents": 2999,
+    "compareAtCents": null,
+    "stock": 52,
+    "rating": 4.17,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/tops/blue-frock/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/tops/blue-frock/1.webp",
+      "https://cdn.dummyjson.com/product-images/tops/blue-frock/2.webp",
+      "https://cdn.dummyjson.com/product-images/tops/blue-frock/3.webp",
+      "https://cdn.dummyjson.com/product-images/tops/blue-frock/4.webp"
+    ],
+    "tags": [
+      "clothing",
+      "dresses"
+    ]
+  },
+  {
+    "id": 151,
+    "title": "Tennis Ball",
+    "description": "The Tennis Ball is a standard ball used in the sport of tennis. It is designed for bouncing and hitting with tennis rackets during matches or practice sessions.",
+    "category": "sports",
+    "brand": null,
+    "priceCents": 699,
+    "compareAtCents": null,
+    "stock": 28,
+    "rating": 4.06,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-ball/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-ball/1.webp"
+    ],
+    "tags": [
+      "sports equipment",
+      "tennis"
+    ]
+  },
+  {
+    "id": 152,
+    "title": "Tennis Racket",
+    "description": "The Tennis Racket is an essential piece of equipment used in the sport of tennis. It features a frame with strings and a grip, allowing players to hit the tennis ball.",
+    "category": "sports",
+    "brand": null,
+    "priceCents": 4999,
+    "compareAtCents": null,
+    "stock": 6,
+    "rating": 4.03,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-racket/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sports-accessories/tennis-racket/1.webp"
+    ],
+    "tags": [
+      "sports equipment",
+      "tennis"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Dolce Shine Eau de",
+    "description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+    "category": "beauty",
+    "brand": "Dolce & Gabbana",
+    "priceCents": 6999,
+    "compareAtCents": null,
+    "stock": 4,
+    "rating": 3.96,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/1.webp",
+      "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/2.webp",
+      "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/3.webp"
+    ],
+    "tags": [
+      "fragrances",
+      "perfumes"
+    ]
+  },
+  {
+    "id": 182,
+    "title": "Green Crystal Earring",
+    "description": "The Green Crystal Earring is a dazzling accessory that features a vibrant green crystal. With a classic design, it adds a touch of elegance to your ensemble, perfect for formal or special occasions.",
+    "category": "accessories",
+    "brand": null,
+    "priceCents": 2999,
+    "compareAtCents": null,
+    "stock": 54,
+    "rating": 3.96,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/1.webp",
+      "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/2.webp",
+      "https://cdn.dummyjson.com/product-images/womens-jewellery/green-crystal-earring/3.webp"
+    ],
+    "tags": [
+      "fashion accessories",
+      "earrings"
+    ]
+  },
+  {
+    "id": 94,
+    "title": "Longines Master Collection",
+    "description": "The Longines Master Collection is an elegant and refined watch known for its precision and craftsmanship. With a timeless design, it's a symbol of luxury and sophistication.",
+    "category": "accessories",
+    "brand": "Longines",
+    "priceCents": 149999,
+    "compareAtCents": null,
+    "stock": 100,
+    "rating": 3.87,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/1.webp",
+      "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/2.webp",
+      "https://cdn.dummyjson.com/product-images/mens-watches/longines-master-collection/3.webp"
+    ],
+    "tags": [
+      "watches",
+      "luxury watches"
+    ]
+  },
+  {
+    "id": 155,
+    "title": "Classic Sun Glasses",
+    "description": "The Classic Sun Glasses offer a timeless design with a neutral frame and UV-protected lenses. These sunglasses are versatile and suitable for various occasions.",
+    "category": "accessories",
+    "brand": "Fashion Shades",
+    "priceCents": 2499,
+    "compareAtCents": 3099,
+    "stock": 1,
+    "rating": 3.86,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/1.webp",
+      "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/2.webp",
+      "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/3.webp"
+    ],
+    "tags": [
+      "eyewear",
+      "sunglasses"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Dior J'adore",
+    "description": "J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
+    "category": "beauty",
+    "brand": "Dior",
+    "priceCents": 8999,
+    "compareAtCents": null,
+    "stock": 98,
+    "rating": 3.8,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/1.webp",
+      "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/2.webp",
+      "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/3.webp"
+    ],
+    "tags": [
+      "fragrances",
+      "perfumes"
+    ]
+  },
+  {
+    "id": 118,
+    "title": "Attitude Super Leaves Hand Soap",
+    "description": "Attitude Super Leaves Hand Soap is a natural and nourishing hand soap enriched with the goodness of super leaves. It cleanses and moisturizes your hands, leaving them feeling fresh and soft.",
+    "category": "beauty",
+    "brand": "Attitude",
+    "priceCents": 899,
+    "compareAtCents": null,
+    "stock": 94,
+    "rating": 3.19,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/1.webp",
+      "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/2.webp",
+      "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/3.webp"
+    ],
+    "tags": [
+      "personal care",
+      "hand soap"
+    ]
+  },
+  {
+    "id": 120,
+    "title": "Vaseline Men Body and Face Lotion",
+    "description": "Vaseline Men Body and Face Lotion is a specially formulated lotion designed to provide long-lasting moisture to men's skin. It absorbs quickly and helps keep the skin hydrated and healthy.",
+    "category": "beauty",
+    "brand": "Vaseline",
+    "priceCents": 999,
+    "compareAtCents": 1199,
+    "stock": 95,
+    "rating": 3.16,
+    "thumbnail": "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/1.webp",
+      "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/2.webp",
+      "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/3.webp"
+    ],
+    "tags": [
+      "personal care",
+      "body lotion"
+    ]
+  }
+]
